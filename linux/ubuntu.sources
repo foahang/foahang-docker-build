@@ -1,0 +1,11 @@
+Types: deb
+URIs: http://dev:I5uGVWSiJ7tZuPc02ClO@foahang.top:5203/repository/apt-ubuntu-noble
+Suites: noble noble-updates noble-backports
+Components: main restricted universe multiverse
+Signed-By: /usr/share/keyrings/ubuntu-archive-keyring.gpg
+
+Types: deb
+URIs: http://dev:I5uGVWSiJ7tZuPc02ClO@foahang.top:5203/repository/apt-ubuntu-noble
+Suites: noble-security
+Components: main restricted universe multiverse
+Signed-By: /usr/share/keyrings/ubuntu-archive-keyring.gpg

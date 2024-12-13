@@ -1,0 +1,1 @@
+docker run -p 9443:9443 --name portainer -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer:1.0
